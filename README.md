@@ -20,6 +20,7 @@ Estas bibliotecas pueden ser instaladas fácilmente utilizando el siguiente coma
 
 ```bash
 !pip install requests beautifulsoup4 pandas
+```
 
 ## 📄 Estructura del proyecto
 
